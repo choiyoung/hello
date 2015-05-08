@@ -12,7 +12,7 @@ class Hello {
 			for (int j = 6; j < 10; j++) {
 				System.out.print(j + "*" + i + "=" + (j * i) + "\t");
 			}
-			System.out.println();
+			System.out.println(  );
 	}
 }
 }*/
